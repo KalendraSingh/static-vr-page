@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.vr-logo {
+    height: 30px;
+    width: 40px;
+}
+
+#nav-color1 {
+    color: black;
+}
+
+#nav-color2 {
+    color: black;
+}
+
+#nav-color3 {
+    color: black;
+}
+
+#nav-color4 {
+    color: black;
+}
+
+.vr-banner {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.banner-main-haeding {
+    font-size: 40px;
+    font-family: roboto;
+    color: white;
+    font-weight: bold;
+}
+
+.vr-banner-btn {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border-width: 0px;
+    border-radius: 8px;
+    height: 60px;
+    width: 130px;
+}
+
+.features-main-heading {
+    font-size: 20px;
+    font-family: roboto;
+    color: #1f2933;
+}
+
+.card-container {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #7b8794;
+    height: 105%;
+}
+
+.card-image {
+    width: 20%;
+}
+
+.card-heading {
+    font-size: 20px;
+    font-family: roboto;
+    color: #1f2933;
+}
+
+.card-paragraph {
+    font-size: 14px;
+    font-family: roboto;
+    color: #7b8794;
+    width: 90%;
+}
+
+.vr-kit-main-heading {
+    font-size: 20px;
+    color: #1f2933;
+    font-weight: 700;
+    font-family: roboto;
+}
+
+.vr-kit-card-image {
+    width: 40%;
+}
+
+.vr-kit-card-heading {
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: 500;
+    font-family: roboto;
+}
+
+.improved-optical-img {
+    width: 100%;
+}
+
+.improved-optical-heading {
+    color: #1f2933;
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.improved-optical-description {
+    color: #7b8794;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.improved-optical-button {
+    height: 40px;
+    width: 100px;
+    background-color: #1a2137;
+    color: #ffffff;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.VR-Website-Contact-Us {
+    background-color: #222b36;
+    width: 100%;
+    background-size: cover;
+}
+
+.Contact-Us-Section-Heading {
+    font-family: roboto;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+
+.Contact-Us-Section-button {
+    height: 37px;
+    width: 120px;
+    border-radius: 8px;
+    border-style: 1px solid;
+    border-color: #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.Trending-vlogs-heading {
+    font-size: 30px;
+    color: #1f2933;
+    font-weight: 700;
+    font-family: Roboto;
+}
+
+.trending-vlogd-image {
+    width: 100%;
+}
+
+.Trending-vlogs-description-heading {
+    color: #959ead;
+    font-family: Roboto;
+}
+
+.Trending-vlogs-description {
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: normal;
+    font-family: Roboto;
+}
+
+.trending-vlogs-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.trending-vlogs-button {
+    color: #ffffff;
+    background-color: #1754a1;
+    border-style: 1px solid;
+    height: 35px;
+    width: 130px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.VR-Website-Products-heading {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Roboto;
+    color: #1f2933;
+}
+
+.VR-Website-Products-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+}
+
+#VR-Website-Products-card-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+}
+
+.VR-Website-Products-card-heading {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.VR-Website-Products-card-paragraph {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.VR-Website-Products-card-button {
+    border-style: 2px solid;
+    border-radius: 5px;
+    border-color: #ffffff;
+    color: #ffffff;
+    background-color: transparent;
+    width: 100px;
+    height: 30px;
+}
+
+.products-vr-button {
+    color: #ffffff;
+    background-color: #1754a1;
+    border-style: 1px solid;
+    height: 35px;
+    width: 130px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.Footer-Section-logo {
+    height: 30px;
+}
+
+.Ecommerce-Website-Footer-Section {
+    background-color: #0d2436;
+
+}
+
+.Footer-Section-icon-container {
+    padding-top: 8px;
+    text-align: center;
+    background-color: #152c3e;
+    color: #5a7184;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.Footer-Section-add-description {
+    font-size: 16px;
+    font-family: roboto;
+    font-weight: 500;
+    color: #5a7184;
+    margin-top: 10px;
+}
+
+.Footer-Section-add-sub-title {
+    font-size: 16px;
+    font-family: roboto;
+    font-weight: 600;
+    color: #5a7184;
+    margin-top: 10px;
+}
+
+div,
+ul {
+    list-style-type: none;
+    color: #5a7184;
+    font-family: roboto;
+    font-size: 14px;
+    padding-left: 0;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
